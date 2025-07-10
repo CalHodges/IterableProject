@@ -1,0 +1,9 @@
+# Core dependencies for Iterable API integration
+requests>=2.31.0
+python-dotenv>=1.0.0
+PyJWT>=2.8.0
+
+# Optional: For better development experience
+# pytest>=7.4.0        # For unit testing
+# black>=23.0.0         # For code formatting
+# flake8>=6.0.0         # For linting

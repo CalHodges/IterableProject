@@ -1,0 +1,5 @@
+.mypy_cache/
+.env
+api_results.csv
+iterable_sync.log
+recent_views.csv
